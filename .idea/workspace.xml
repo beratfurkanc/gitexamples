@@ -77,6 +77,12 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1P4bqNltGa6DMGiuE2yaPsSXWjv" />
+=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -104,6 +110,7 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 5e7dbda5f7488e399967883d3cfd40a24fdfa30c
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -142,6 +149,12 @@
       <pane id="Scope" />
     </panes>
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+=======
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -153,6 +166,7 @@
         </RuleState>
       </list>
     </option>
+>>>>>>> 5e7dbda5f7488e399967883d3cfd40a24fdfa30c
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
