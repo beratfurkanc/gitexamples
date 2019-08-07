@@ -11,5 +11,9 @@ public class  Ford {
         int a=10;
         String b="van";
 
+        System.out.println("beratfurkanc");
+        System.out.println("beratfurkanc");
+        System.out.println("beratfurkanc");
+        System.out.println("beratfurkanc");
     }
 }
