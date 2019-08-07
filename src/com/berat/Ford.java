@@ -19,4 +19,8 @@ public class  Ford {
         System.out.println("beratfurkanc");
         int c=5;
     }
+    public static void main3(String[] args) {
+        System.out.println("ibrahim ford");
+
+    }
 }
