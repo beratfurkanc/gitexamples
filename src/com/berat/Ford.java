@@ -1,5 +1,7 @@
 package com.berat;
 
+import javax.swing.plaf.synth.SynthOptionPaneUI;
+
 public class  Ford {
 
     public static void main2(String[] args) {
@@ -15,5 +17,6 @@ public class  Ford {
         System.out.println("beratfurkanc");
         System.out.println("beratfurkanc");
         System.out.println("beratfurkanc");
+        int c=5;
     }
 }
