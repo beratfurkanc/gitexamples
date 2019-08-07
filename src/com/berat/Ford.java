@@ -12,4 +12,7 @@ public class Ford {
         String b="van";
 
     }
+    public static void main3(String[] args) {
+        System.out.println("ibrahim ford");
+    }
 }
