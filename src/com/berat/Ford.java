@@ -1,6 +1,6 @@
 package com.berat;
 
-public class Ford {
+public class  Ford {
 
     public static void main(String[] args) {
         System.out.println("Ferrari deneme");
