@@ -8,5 +8,7 @@ public class Car {
 
         System.out.println("yeni bur dunya");
         System.out.println("vfdsfdsfsdfdsfs");
+
+        System.out.println("merge deneme");
     }
 }
