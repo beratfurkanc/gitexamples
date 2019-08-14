@@ -22,5 +22,10 @@ public class  Ford {
     public static void main3(String[] args) {
         System.out.println("ibrahim ford");
 
+        System.out.println("ibrahim ford");
+
+        System.out.println("ibrahim ford");
+
+
     }
 }
